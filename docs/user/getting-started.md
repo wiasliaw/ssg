@@ -1,3 +1,10 @@
+---
+title: "Getting Started"
+description: "Environment setup, installation, and your first post"
+created: 2026-01-11
+tags: ["guide", "tutorial"]
+---
+
 # Getting Started
 
 ## Requirements
@@ -37,10 +44,10 @@ export default defineConfig({
 
 ## Create Your First Post
 
-Create a Markdown file in `content/posts/`:
+Create a Markdown file in `docs/`:
 
 ```bash
-touch content/posts/hello-world.md
+touch docs/hello-world.md
 ```
 
 Add the required frontmatter:
@@ -62,3 +69,4 @@ Start the dev server and visit `http://localhost:4321/posts/hello-world`.
 - [Writing Posts](writing-posts.md) - Learn about file structure and Markdown syntax
 - [Frontmatter](frontmatter.md) - Explore all available frontmatter fields
 - [Wiki Links](wiki-links.md) - Connect your posts together
+- [Configuration](configuration.md) - Customize SSG behavior

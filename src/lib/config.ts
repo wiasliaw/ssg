@@ -5,7 +5,7 @@ import { pathToFileURL } from 'node:url';
 const defaults = {
   content: {
     patterns: ['**/*.md'],
-    base: './content/posts',
+    base: './docs',
   },
   schema: {
     dateModifiedField: 'modified',

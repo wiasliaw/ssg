@@ -1,3 +1,10 @@
+---
+title: "Frontmatter"
+description: "Required and optional frontmatter fields reference"
+created: 2026-01-11
+tags: ["guide"]
+---
+
 # Frontmatter
 
 Frontmatter is YAML metadata at the top of each post, enclosed by `---`.

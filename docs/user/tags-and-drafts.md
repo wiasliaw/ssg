@@ -1,3 +1,10 @@
+---
+title: "Tags and Drafts"
+description: "Organizing posts with tags and draft mode"
+created: 2026-01-11
+tags: ["guide"]
+---
+
 # Tags and Drafts
 
 ## Tags

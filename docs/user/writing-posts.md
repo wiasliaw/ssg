@@ -1,11 +1,18 @@
+---
+title: "Writing Posts"
+description: "File structure, naming conventions, and Markdown syntax"
+created: 2026-01-11
+tags: ["guide", "tutorial"]
+---
+
 # Writing Posts
 
 ## File Location
 
-All posts are stored in `content/posts/` directory as Markdown (`.md`) files.
+All posts are stored in `docs/` directory as Markdown (`.md`) files.
 
 ```
-content/posts/
+docs/
 ├── hello-world.md
 ├── my-second-post.md
 └── guides/

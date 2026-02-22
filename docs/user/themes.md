@@ -1,3 +1,10 @@
+---
+title: "Themes"
+description: "Color themes and customization"
+created: 2026-01-11
+tags: ["guide", "customization"]
+---
+
 # Themes
 
 The site supports multiple color themes with a build-time theme preset system. Each theme includes light and dark mode variants.

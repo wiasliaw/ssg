@@ -4,7 +4,7 @@ export default defineConfig({
   // Content loader configuration
   // content: {
   //   patterns: ['**/*.md'],
-  //   base: './content/posts',
+  //   base: './docs',
   // },
 
   // Schema configuration
