@@ -1,3 +1,10 @@
+---
+title: "Wiki Links"
+description: "Wiki-style link syntax for connecting posts"
+created: 2026-01-11
+tags: ["guide", "features"]
+---
+
 # Wiki Links
 
 Wiki links connect posts together using a simple `[[slug]]` syntax, enabling Digital Garden / Wiki-style navigation.

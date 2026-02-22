@@ -1,3 +1,10 @@
+---
+title: "Math Support"
+description: "LaTeX math formula syntax with KaTeX"
+created: 2026-01-11
+tags: ["guide", "features"]
+---
+
 # Math Support
 
 This site supports LaTeX math formulas using [KaTeX](https://katex.org/).

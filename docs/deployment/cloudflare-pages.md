@@ -1,3 +1,10 @@
+---
+title: "Cloudflare Pages Deployment"
+description: "Deploy your SSG site to Cloudflare Pages"
+created: 2026-01-11
+tags: ["deployment"]
+---
+
 # Cloudflare Pages Deployment
 
 ## Prerequisites
