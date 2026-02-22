@@ -1,6 +1,3 @@
-# user config (keep out of upstream)
-ssg.config.ts
-
 # build output
 dist/
 
